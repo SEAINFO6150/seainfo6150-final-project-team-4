@@ -6,7 +6,7 @@ import Good from './views/good'
 import CarList from './views/carList'
 import Details from './views/detail'
 import About from './views/about'
-import Contact from './views/contact'
+import Contact from './views/contact' 
 
 function App() {
   return (
@@ -16,6 +16,7 @@ function App() {
             <Route path='/index' component={Index}/>
 
             <Route path='/buy' exact  component={Good}/>
+            
             <Route path='/list' exact component={CarList}/>
             <Route path='/order' exact component={Details}/>
             <Route path='/about' exact component={About}/>
