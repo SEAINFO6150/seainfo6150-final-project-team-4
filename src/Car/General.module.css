@@ -1,0 +1,79 @@
+@import url('http://fonts.googleapis.com/css?family=Pacifico');
+.-general { 
+  display: grid;
+  grid-template-columns: 30% 70%;
+  margin: 10px 10px 10px 10px;
+}
+
+.-general .image {
+  grid-column: 1;
+  height: 150px; 
+  width: 150px; 
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.-general .image:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.-general .image img {
+	display: block;
+	height: 100%; 
+  width: 100%; 
+  max-width: 150px; 
+  max-height: 150px;
+}
+
+.-general .content {
+  grid-column: 2;
+  display: grid;
+  grid-template-columns: 40% 30% 30%; 
+}
+
+.-general .content .name { 
+  grid-row: 1; 
+  text-decoration: none;
+  font: 400 100px/1.5 'Times New Roman', Helvetica, sans-serif;
+  font-weight: 500; 
+  font-size: 25px;
+}
+
+.-general .content .description { 
+  grid-row: 2; 
+}
+
+.-general .content .details { 
+  grid-row: 3; 
+  border-style: solid;
+  border-width: 0px 0px 3px;
+  box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1) inset;
+  color: #FFFFFF;    
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-block;
+  font-style: normal;
+  overflow: hidden;
+  text-align: center;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  transition: all 200ms ease-in-out 0s;
+  white-space: nowrap;  
+  font-weight: 700; 
+  font-size: 20px;
+}
+
+.-general .content .item {
+  justify-self: strech;
+  align-self: center; 
+}
+
+.-general .content .grey {
+  background-color: orange;
+  border-color: #AAB3BB;
+}
+.-general .content .grey:hover, .grey:focus, .grey:active {
+  background-color: #B8BFC7;
+  border-color: #AAB3BB; 
+}
+

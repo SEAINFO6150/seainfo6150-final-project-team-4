@@ -1,0 +1,27 @@
+@import url('http://fonts.googleapis.com/css?family=Merienda+One');
+
+.-category {
+	padding: 10px 10% 10% 10%;
+}
+
+
+.-category .category-name {
+	text-align: center;
+	font: 400 100px/1.2 'Times New Roman', Helvetica, sans-serif;
+	font-size: 70px;
+}
+
+.-category ul {
+	display: grid;
+  	grid-template-columns: repeat(auto-fill, minmax(800px, 1fr));
+  	grid-gap: 1rem;
+	list-style: none;
+	padding-top: 50px;
+}
+
+.-category li {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  	margin-top: 20px;
+  	margin-bottom: 20px;
+}
+

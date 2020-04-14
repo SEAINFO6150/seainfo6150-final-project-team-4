@@ -1,0 +1,140 @@
+.main{
+    font-family: Arial;
+    display: grid;
+    grid-template-rows: auto;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    /*background-image: linear-gradient(*/
+            /*to bottom right,*/
+            /*rgb(22, 226, 220),*/
+            /*rgba(54, 233, 222, 0.64),*/
+            /*white 30%*/
+    /*);*/
+}
+.h1{
+    font-family: "Times New Roman";
+    font-size: 80px;
+    color: #000;
+    text-shadow: 5px 5px 10px #5ee212de;
+    -webkit-text-stroke: 1px #2012e9;
+}
+
+
+
+.cateOuter{
+    display: grid;
+    /*display: table-cell;*/
+    /*vertical-align: middle;*/
+    /*margin : 20px;*/
+}
+
+.cateInner{
+    display: grid;
+    grid-auto-rows: auto;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    margin-top: 20px;
+    margin-left : auto;
+    margin-right: auto;
+}
+
+
+.pic:hover{
+    box-shadow: 0px 0px 0px #888888;
+}
+
+.Text{
+    text-shadow: #fff 1px 0 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right : auto;
+}
+
+.img{
+    width: 50%;
+    max-width: 200px;
+    margin-right: 20px;
+}
+
+/*.logoimg{*/
+    /*height : 200px;*/
+    /*width : 500px;*/
+/*}*/
+
+
+/*media query part*/
+
+@media  (min-width: 800px) and (max-width : 1000px){
+    .cateInner{
+        display: grid;
+        grid-gap :20px;
+        grid-template-columns: 33% 33% 33%;
+        margin-top: 20px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+.pic{
+    box-shadow: 5px 5px 5px #888888;
+}
+
+@media  (max-width: 800px) {
+    .cateInner{
+        display: grid;
+        grid-template-columns: 100%;
+        margin-top: 20px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .img{
+        margin-top: 20px;
+        max-height: 250px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+
+    .pic{
+        height: 200px;
+        width: 200px;
+    }
+
+}
+
+
+
+
+/*.login :hover {*/
+    /*font-style: italic;*/
+/*}*/
+
+/*.login{*/
+    /*position :relative;*/
+    /*float: right;*/
+    /*margin-right: 40px;*/
+
+/*}*/
+
+/*.loginUrl{*/
+    /*float: right;*/
+    /*font-size: 25px;*/
+    /*height: 30px;*/
+    /*width: 200px;*/
+/*}*/
+
+
+/*.about{*/
+    /*margin-top : 50px;*/
+    /*margin-left:auto;*/
+    /*margin-right:auto;*/
+/*}*/
+
+/*.contect:hover{*/
+    /*background-color: yellow;*/
+/*}*/
+
+/*.contect{*/
+    /*font-size: 20px;*/
+/*}*/

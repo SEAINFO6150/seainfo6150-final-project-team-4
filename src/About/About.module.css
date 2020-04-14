@@ -1,0 +1,52 @@
+
+.start {
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+
+.start p {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: stretch;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.cards .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+.cards a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+.cards img {
+	height: 150px; 
+  	width: 150px; 
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");

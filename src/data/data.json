@@ -1,0 +1,377 @@
+{
+    "Sedan": [
+    {
+        "id": "z-2_o5IBbnkU8R6vPGGLWg",
+        "alias": "sushi-and-wok-puyallup",
+        "name": "Audi-A3",
+        "image_url": "https://static.tcimg.net/vehicles/primary/0a572f148a22f931/2020-Audi-A3-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/0a572f148a22f931/2020-Audi-A3-white-full_color-driver_side_profile.png",
+        "price": "34000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "Qjr8s_yphW805SjoVziE_Q",
+        "alias": "happy-express-auburn-2",
+        "name": "Audi-A4",
+        "image_url": "https://static.tcimg.net/vehicles/primary/fee351f6e8af00d6/2020-Audi-A4-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/fee351f6e8af00d6/2020-Audi-A4-white-full_color-driver_side_profile.png",
+        "price": "42000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "P5lzYOfht7Lu15zasSdUcw",
+        "alias": "fry-pan-puyallup-2",
+        "name": "BMW-320",
+        "image_url": "https://static.tcimg.net/vehicles/primary/473e26c6bfc4e8b9/2020-BMW-3_Series-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/473e26c6bfc4e8b9/2020-BMW-3_Series-white-full_color-driver_side_profile.png",
+        "price": "33000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "c-PhA7dl4u45CCQJge9wuw",
+        "alias": "tacoma-szechuan-lakewood",
+        "name": "Dodge-Charger",
+        "image_url": "https://static.tcimg.net/vehicles/primary/a5381b86da2ed098/2020-Dodge-Charger-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/a5381b86da2ed098/2020-Dodge-Charger-white-full_color-driver_side_profile.png",
+        "price": "23000",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "amliwv-We9i1qjr1KxN50A",
+        "alias": "din-tai-fung-tukwila",
+        "name": "Ford-Fusion",
+        "image_url": "https://static.tcimg.net/vehicles/primary/2dc869640b624002/2020-Ford-Fusion-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/2dc869640b624002/2020-Ford-Fusion-white-full_color-driver_side_profile.png",
+        "price": "18000",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "z_zr60UEMTu2fPoDQYUTLA",
+        "alias": "wok-and-teriyaki-puyallup",
+        "name": "Lexus-ES",
+        "image_url": "https://static.tcimg.net/vehicles/primary/c133a2bf2846c793/2020-Lexus-ES-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/c133a2bf2846c793/2020-Lexus-ES-white-full_color-driver_side_profile.png",
+        "price": "54000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+        }],
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "SUV": [
+    {
+        "id": "uJRJJvVpdP5zZsy0EQwmDA",
+        "alias": "marzano-italian-restaurant-tacoma",
+        "name": "Audi-Q3",
+        "image_url": "https://static.tcimg.net/vehicles/primary/32117ccb1a3ecf4f/2020-Audi-Q3-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/32117ccb1a3ecf4f/2020-Audi-Q3-white-full_color-driver_side_profile.png",
+        "price": "37000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "s_2ak1IJxU0bEcXveaTXWw",
+        "alias": "il-siciliano-ristorante-italiano-enumclaw",
+        "name": "Audi-Q5",
+        "image_url": "https://static.tcimg.net/vehicles/primary/4ecfbae76bf292d6/2020-Audi-Q5-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/4ecfbae76bf292d6/2020-Audi-Q5-white-full_color-driver_side_profile.png",
+        "price": "43000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "htoVUC93LR3p0Lk4fHW9lw",
+        "alias": "toscanos-puyallup",
+        "name": "BMW-X3",
+        "image_url": "https://static.tcimg.net/vehicles/primary/50b13827756f9da0/2020-BMW-X3-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/50b13827756f9da0/2020-BMW-X3-white-full_color-driver_side_profile.png",
+        "price": "53000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "hDnr-389otB2rJzmS_lApQ",
+        "alias": "amici-italian-eatery-graham-3",
+        "name": "Benz-GLC",
+        "image_url": "https://static.tcimg.net/vehicles/primary/0f2354f7fa2e6591/2020-Mercedes-Benz-GLC-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/0f2354f7fa2e6591/2020-Mercedes-Benz-GLC-white-full_color-driver_side_profile.png",
+        "price": "67000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "sqQz21IRNyqFb2Ei_Ymurw",
+        "alias": "pizza-express-puyallup",
+        "name": "Dodge-Journey",
+        "image_url": "https://static.tcimg.net/vehicles/primary/c4f9ce9551ff49e1/2019-Dodge-Journey-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/c4f9ce9551ff49e1/2019-Dodge-Journey-white-full_color-driver_side_profile.png",
+        "price": "33000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "Yud8O7de6u05rPtYmvhiPw",
+        "alias": "sorcis-italian-cafe-and-enoteca-sumner",
+        "name": "Honda-Passport",
+        "image_url": "https://static.tcimg.net/vehicles/primary/4c2f604285bf9316/2020-Honda-Passport-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/4c2f604285bf9316/2020-Honda-Passport-white-full_color-driver_side_profile.png",
+        "price": "29000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    }],
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "Sports Car": [
+    {
+        "id": "py3EtoBPPkN9znFStNXXaQ",
+        "alias": "my-lil-cube-ramen-and-asian-cuisine-puyallup",
+        "name": "Audi-TT",
+        "image_url": "https://static.tcimg.net/vehicles/primary/bf4f1b767bffe953/2020-Audi-TT-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/bf4f1b767bffe953/2020-Audi-TT-white-full_color-driver_side_profile.png",
+        "price": "78000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "C9vUoTQJ7x-o0TX9lmyJyw",
+        "alias": "tokyo-ya-ramen-and-izakaya-federal-way",
+        "name": "BMW-Z4",
+        "image_url": "https://static.tcimg.net/vehicles/primary/bf4f1b767bffe953/2020-Audi-TT-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/bf4f1b767bffe953/2020-Audi-TT-white-full_color-driver_side_profile.png",
+        "price": "81000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "1R5kuhVzPSmXOgjPayeaHA",
+        "alias": "sapporo-sushi-and-roll-fife",
+        "name": "Ford-Mustang",
+        "image_url": "https://static.tcimg.net/vehicles/primary/327724866209bad5/2020-Ford-Mustang-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/327724866209bad5/2020-Ford-Mustang-white-full_color-driver_side_profile.png",
+        "price": "35000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "lC5BEvjMwuJMQxY74CzYOQ",
+        "alias": "forever-sushi-puyallup",
+        "name": "Mazda-MX-5",
+        "image_url": "https://static.tcimg.net/vehicles/primary/103ddbf50876d547/2020-Mazda-MX-5_Miata-gray-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/103ddbf50876d547/2020-Mazda-MX-5_Miata-gray-full_color-driver_side_profile.png",
+        "price": "44000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "z-2_o5IBbnkU8R6vPGGLWg",
+        "alias": "sushi-and-wok-puyallup",
+        "name": "Benz-AMG GT",
+        "image_url": "https://static.tcimg.net/vehicles/primary/e96c4d9bafc93568/2020-Mercedes-Benz-AMG_GT-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/e96c4d9bafc93568/2020-Mercedes-Benz-AMG_GT-white-full_color-driver_side_profile.png",
+        "price": "110000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "wydWGS6nvGRSXmDTXIdSnw",
+        "alias": "happy-bento-puyallup",
+        "name": "Porsche-911",
+        "image_url": "https://static.tcimg.net/vehicles/primary/46b6d7da5e28d780/2020-Porsche-911-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/46b6d7da5e28d780/2020-Porsche-911-white-full_color-driver_side_profile.png",
+        "price": "143000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    }],
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "Truck": [
+    {
+        "id": "ooFrazKXXBNL2wUze3KEOQ",
+        "alias": "pitas-taqueria-enumclaw-2",
+        "name": "Honda-Ridgeline",
+        "image_url": "https://static.tcimg.net/vehicles/primary/dcd77aa069ba8350/2020-Honda-Ridgeline-silver-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/dcd77aa069ba8350/2020-Honda-Ridgeline-silver-full_color-driver_side_profile.png",
+        "price": "37000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "hdFehBBkwZ2umAmzugOtRg",
+        "alias": "asadero-sinaloa-kent",
+        "name": "Ford-Ranger",
+        "image_url": "https://static.tcimg.net/vehicles/primary/e983dc2e7962cba9/2019-Ford-Ranger-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/e983dc2e7962cba9/2019-Ford-Ranger-white-full_color-driver_side_profile.png",
+        "price": "44000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "Jeep-Gladiator",
+        "alias": "fiesta-taqueria-and-tequila-bar-puyallup-2",
+        "name": "Fiesta Taqueria & Tequila Bar",
+        "image_url": "https://static.tcimg.net/vehicles/primary/69bb67d3323eb1f0/2020-Jeep-Gladiator-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/69bb67d3323eb1f0/2020-Jeep-Gladiator-white-full_color-driver_side_profile.png",
+        "price": "47000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "equMufWW3dEm0n0Jy0IKow",
+        "alias": "pico-de-gallo-tacoma",
+        "name": "GNC-canyon",
+        "image_url": "https://static.tcimg.net/vehicles/primary/0fe671d5fabe90c3/2020-GMC-Canyon-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/0fe671d5fabe90c3/2020-GMC-Canyon-white-full_color-driver_side_profile.png",
+        "price": "38000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    }],
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "MPV": [
+   
+    {
+        "id": "ssSH9LMU3kjZc1vRKBkclQ",
+        "alias": "the-kettle-enumclaw",
+        "name": "Honda-Odyssey",
+        "image_url": "https://static.tcimg.net/vehicles/primary/2eed8ff780f4515a/2020-Honda-Odyssey-white-full_color-driver_side_profile.png   ",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/2eed8ff780f4515a/2020-Honda-Odyssey-white-full_color-driver_side_profile.png   ",
+        "price": "49000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "Klz2UL-_MOFkcpfWM69rzQ",
+        "alias": "hg-bistro-puyallup",
+        "name": "Dodge-Grand ",
+        "image_url": "https://static.tcimg.net/vehicles/primary/9e50dfe316c89a09/2019-Dodge-Grand_Caravan-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/9e50dfe316c89a09/2019-Dodge-Grand_Caravan-white-full_color-driver_side_profile.png",
+        "price": "43000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "glKGHso1XxVAHT-jf8qMdQ",
+        "alias": "tims-kitchen-orting",
+        "name": "Kia-Sedoia",
+        "image_url": "https://static.tcimg.net/vehicles/primary/dc1e0ef556a9e6db/2020-Kia-Sedona-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/dc1e0ef556a9e6db/2020-Kia-Sedona-white-full_color-driver_side_profile.png",
+        "price": "36000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+    },
+    {
+        "id": "2mKcyUF-D2XJLDEDcypT3A",
+        "alias": "rainier-bar-and-grill-enumclaw",
+        "name": "Toyota-Sienna",
+        "image_url": "https://static.tcimg.net/vehicles/primary/212ae0a1b3fbd2e3/2020-Toyota-Sienna-white-full_color-driver_side_profile.png",
+        "is_closed": false,
+        "url": "https://static.tcimg.net/vehicles/primary/212ae0a1b3fbd2e3/2020-Toyota-Sienna-white-full_color-driver_side_profile.png",
+        "price": "47000$",
+        "speed":"3.8s",
+        "engine":"4 cylinder"
+        }]
+}

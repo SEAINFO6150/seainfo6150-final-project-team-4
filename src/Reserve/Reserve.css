@@ -1,0 +1,100 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 30px;
+    font-size: 22px;
+    color: black;
+    font-family: Optima;
+}
+.form{
+    font-family: Optima;
+}
+.letter{
+border-style: dotted;
+    font-family: Optima;
+}
+
+.button{
+    border-radius: 12px;
+
+}
+
+textarea{
+    max-width: 100%;
+}
+input[type="email"] {
+    max-width: 100%;
+}
+
+input[type="name"] {
+    max-width: 70%;
+}
+.title{
+    /*font-size: small;*/
+}
+
+/*.upperpart{*/
+    /*width:100%;*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*align-items: center;*/
+/*}*/
+@media only screen and (max-width: 320px) {
+
+    [class*="contacttitle"] {
+        text-align: center;
+
+    }
+    [class*="form"] {
+       max-width: 320px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    [class*="root"] {
+
+        width:100%;
+        margin:0px;
+    }
+
+
+}
+
+
+
+@media only screen and (min-width: 768px) {
+
+    [class*="contacttitle"] {
+        text-align: center;
+        /*font-size: 22px;*/
+    }
+    [class*="letter"] {
+
+        font-size: 20px;
+    }
+
+    [class*="body"] {
+        width: 100%;
+
+    }
+}
+
+
+@media only screen and (min-width: 1024px) {
+
+    [class*="contacttitle"] {
+        text-align: center;
+
+    }
+    [class*="letter"] {
+
+        font-size: 20px;
+    }
+
+    [class*="body"] {
+        width: 100%;
+
+    }
+}
